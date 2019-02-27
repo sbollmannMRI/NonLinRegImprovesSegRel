@@ -7,4 +7,4 @@ Code runs with BIDS on Slurm or serially.
 2) tse_mc
 3) ashs and evaluate registrations
 
-Singularity image available at https://hub.docker.com/r/caid/ashs
+Singularity image available by request
